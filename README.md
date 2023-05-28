@@ -2,6 +2,7 @@
 Project of title cosine similarity between products in MeLi
 
 ## Word/PDF analysis of Case Selected 
+- I included both formats to be able to visualize in repo 
 
 ## Exploration with multiple analysis 
 #### (fixed examples, only to explore, not to be run again):
