@@ -1,12 +1,14 @@
 # TitleSimilarityMeLi
 Project of title cosine similarity between products in MeLi
 
-## Exploration with multiple analysis (fixed examples, only to explore, not to be run again):
+## Exploration with multiple analysis 
+#### (fixed examples, only to explore, not to be run again):
 - Tf-Idf and Cosine similarity
 - Word Embeddings (word2vec) and Cosine similarity 
   - Plot titles proximity (of title embedding) in 2D with PCA, TSNE, (with colors both from KMeans and original Categories)
 
-## Implementation with selected analysis (meant to be run multiple times as a train/test solution, to get new examples):
+## Implementation with selected analysis 
+#### (meant to be run multiple times as a train/test solution, to get new examples):
 - Selected Algorithm: Word Embeddings and Cosine similarity (due to simplicity of implementation, more robust algorithm and fastness/smaller cosine matrix)
 - Selected Plot: 2D with PCA and TSNE (only original Categories, for better understanding)
 
