@@ -1,6 +1,8 @@
 # TitleSimilarityMeLi
 Project of title cosine similarity between products in MeLi
 
+## Word/PDF analysis of Case Selected 
+
 ## Exploration with multiple analysis 
 #### (fixed examples, only to explore, not to be run again):
 - Tf-Idf and Cosine similarity
